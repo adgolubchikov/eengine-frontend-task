@@ -6,7 +6,7 @@ Live: [https://golubchikov.ml/eengine-task/task1/](https://golubchikov.ml/eengin
 
 
 ###Task 2.   
-Task 2 is done in two ways - by modern way using create-react-app (with npm, build tools etc under it) and in old way in one file with React and Babel connected in development mode from unpkg. 
+Task 2 is done in two ways - by modern way using create-react-app (with npm, build tools etc under it) and in old way in one file with React and Babel connected in development mode from unpkg.  
 Modern mode:  
 Github: [https://github.com/adgolubchikov/eengine-task2-modern/](https://github.com/adgolubchikov/eengine-task2-modern/)
 Live: [https://eengine-task2-react.netlify.app/](https://eengine-task2-react.netlify.app/)    
